@@ -1,15 +1,19 @@
 # Hi, I'm Agustín Fernández Gastón 👋
 
-**Data Analyst & Data Scientist** | Electronic Engineering Student | Web Developer  
+**Data Analyst & Electronics Engineer** | Electronic Engineering Student | Web Developer  
 📍 La Rioja, Argentina
 
 ---
 
 ## About Me
 
-I'm a data professional with a background in **Data Science** (graduated from Mundos E, Córdoba) and currently finishing my degree in **Electronic Engineering**. I work at the intersection of data analysis, statistics, and web development — building things that actually work and deliver value.
+I'm an Electronic Engineering student with a hybrid profile: I work with data and I work with hardware — and I think that combination is rare and valuable.
 
-When I'm not analyzing data, I build websites for local businesses and repair electronics. I believe in learning by doing.
+On the data side, I have a background in **Data Science** (graduated from Mundos E, Córdoba) and work with R, Python, and Power BI to build analyses and dashboards that deliver real insight.
+
+On the hardware side, I run my own electronics lab — SMD soldering station, variable power supply, the works — where I diagnose and repair PCBs from air conditioning units, refrigerators, and general electronics. **30+ successful repairs.** I'm also a certified Refrigeration Technician.
+
+I build websites for local businesses too. I believe in learning by doing, and doing things that actually work.
 
 ---
 
@@ -24,6 +28,12 @@ When I'm not analyzing data, I build websites for local businesses and repair el
 **Web Development**
 - Framer
 - HTML · CSS · JavaScript
+
+**Hardware & Electronics**
+- PCB diagnostics & repair (HVAC, refrigeration, consumer electronics)
+- SMD soldering · Variable power supply · Multimeter-based fault diagnosis
+- Arduino / ESP32 · Microcontroller programming
+- Refrigeration systems (certified technician)
 
 **Other**
 - Statistical modeling · Chi-square · Cramér's V · Regression
@@ -62,19 +72,35 @@ Complete analysis pipeline built under competition conditions: data cleaning, ex
 
 ---
 
+## ⚡ Hardware & Electronics Lab
+
+I run an independent electronics repair operation out of my own lab in La Rioja.
+
+**Equipment:** SMD soldering station · Variable power supply · Digital multimeter · Oscilloscope tools  
+**Specialization:** PCB-level repair of air conditioning control boards, refrigerator electronics, and general consumer devices  
+**Track record:** 30+ successful diagnostics and repairs
+
+Every new project gets documented here going forward — photos, fault analysis, and solution applied.
+
+→ *[hardware-projects repo — coming soon]*
+
+---
+
 ## 📈 GitHub Stats
 
-![Agustín's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgusFernandezGaston&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AgusFernandezGaston&layout=compact&theme=dark&hide_border=true)
+[![Agustín's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgusFernandezGaston&show_icons=true&theme=dark&hide_border=true)](https://github.com/AgusFernandezGaston)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AgusFernandezGaston&layout=compact&theme=dark&hide_border=true)](https://github.com/AgusFernandezGaston)
 
 ---
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/fern%C3%A1ndez-gast%C3%B3n-agust%C3%ADn-2571182aa/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/agustin-fernandez-ingenieria/)
 - 🌐 [Portfolio](https://agusfernandezgaston.github.io)
-- 📧 Available for freelance data projects and web development
+- 📧 Available for freelance work: data analysis, Power BI dashboards, web development, and electronics repair
 
 ---
+
+*Open to remote freelance projects in data & web — and local hardware/electronics work in La Rioja.*
 
 *Open to remote freelance work in data analysis, Power BI dashboards, and web development.*
