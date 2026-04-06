@@ -82,7 +82,7 @@ I run an independent electronics repair operation out of my own lab in La Rioja.
 
 Every new project gets documented here going forward — photos, fault analysis, and solution applied.
 
-→ *[hardware-projects repo — coming soon]*
+→
 <img width="1195" height="770" alt="laboratorio" src="https://github.com/user-attachments/assets/a75f5760-787b-45bf-b703-03aa7c50e229" />
 
 ---
