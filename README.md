@@ -78,11 +78,8 @@ I run an independent electronics repair operation out of my own lab in La Rioja.
 
 **Equipment:** SMD soldering station · Variable power supply · Digital multimeter · Oscilloscope tools  
 **Specialization:** PCB-level repair of air conditioning control boards, refrigerator electronics, and general consumer devices  
-**Track record:** 30+ successful diagnostics and repairs
+**Track record:** 1000+ successful diagnostics and repairs
 
-Every new project gets documented here going forward — photos, fault analysis, and solution applied.
-
-→
 <img width="1195" height="770" alt="laboratorio" src="https://github.com/user-attachments/assets/a75f5760-787b-45bf-b703-03aa7c50e229" />
 
 ---
