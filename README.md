@@ -101,8 +101,8 @@ I work across the whole stack, from the circuit board to the dashboard. That mea
 | **Aviat Clinic website** | Website proposal for a surgical center: services, specialties, facilities, and WhatsApp contact. Auto-deployed from GitHub. | Next.js · TypeScript · Tailwind · Cloudflare Pages | [Live](https://aviat.riojadev.com.ar) |
 | **WhatsApp appointment bot** | Patients pick specialty, doctor, date, and time from a guided menu; every request is logged in Google Sheets for the admissions team. In production. | Botpress · WhatsApp Business API · Google Sheets | Demo on request |
 | **riojadev.com.ar** | My portfolio: interactive oscilloscope hero, bilingual (ES/EN), installable as an app. | HTML · CSS · JavaScript · Canvas | [Live](https://riojadev.com.ar) |
-| **Depression risk in Argentine students** | Risk behaviors vs. depression probability in 56,981 secondary students (EMSE 2018): chi-square tests, Cramér's V, contingency tables. | R · ggplot2 · VBA | Available on request |
-| **Sales performance dashboard** | Star-schema model, KPI cards, 2016 vs. 2017 comparison, natural-language Q&A. | Power BI · DAX | Demo on request |
+| **Depression risk in Argentine students** | 56,981 secondary students (EMSE 2018): substance use, physical activity, and a risk indicator, tested with chi-square and Cramér's V. Reviewing the group's analysis, I found two errors (a reversed p-value reading and a coding bug that left 8,414 students unclassified) that changed the conclusion. | R · ggplot2 · VBA · Python | [Case study](https://riojadev.com.ar/proyectos/depresion/) |
+| **Sales performance dashboard** | Star-schema model with 266,128 transactions, DAX measures, and time intelligence. Rebuilt as an interactive web dashboard from the original model data. | Power BI · DAX · Chart.js | [Live dashboard](https://riojadev.com.ar/proyectos/ventas/) |
 | **ESP32 automatic irrigation** | Weather and soil-moisture sensors decide when to water and drive a pump through a relay. In development. | ESP32 · C++ · PlatformIO | Coming soon |
 
 ---
