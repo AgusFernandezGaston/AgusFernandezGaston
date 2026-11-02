@@ -1,104 +1,70 @@
-# Hi, I'm Agustín Fernández Gastón 👋
+<div align="center">
 
-**Data Analyst & Electronics Engineer** | Electronic Engineering Student | Web Developer  
-📍 La Rioja, Argentina
+# Agustín Fernández Gastón
 
----
+**Web & automation developer · Data analyst · Electronics technician**
+<br>
+Electronic Engineering student at UTN · La Rioja, Argentina
 
-## About Me
+[riojadev.com.ar](https://riojadev.com.ar) · [LinkedIn](https://www.linkedin.com/in/agustin-fernandez-ingenieria/) · [Live projects](#featured-projects)
 
-I'm an Electronic Engineering student with a hybrid profile: I work with data and I work with hardware — and I think that combination is rare and valuable.
-
-On the data side, I have a background in **Data Science** (graduated from Mundos E, Córdoba) and work with R, Python, and Power BI to build analyses and dashboards that deliver real insight.
-
-On the hardware side, I run my own electronics lab — SMD soldering station, variable power supply, the works — where I diagnose and repair PCBs from air conditioning units, refrigerators, and general electronics. **30+ successful repairs.** I'm also a certified Refrigeration Technician.
-
-I build websites for local businesses too. I believe in learning by doing, and doing things that actually work.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About me
 
-**Data & Analytics**
-- R (ggplot2, dplyr, tidyverse, vcd, nortest)
-- Python (pandas, NumPy, matplotlib)
-- Power BI (DAX, star schema, interactive dashboards)
-- Excel / VBA
+I work across the whole stack, from the circuit board to the dashboard.
 
-**Web Development**
-- Framer
-- HTML · CSS · JavaScript
+- **Software:** I build websites, WhatsApp bots, and automations for businesses, using the tools they already rely on: WhatsApp, Google Sheets, their existing site.
+- **Data:** I trained in Data Science at Mundos E (Córdoba) and use R, Python, and Power BI to turn raw data into decisions.
+- **Hardware:** I run my own electronics lab, where I diagnose and repair boards from phones, TVs, air conditioners, and refrigerators. 30+ successful repairs. I'm also a certified refrigeration technician.
 
-**Hardware & Electronics**
-- PCB diagnostics & repair (HVAC, refrigeration, consumer electronics)
-- SMD soldering · Variable power supply · Multimeter-based fault diagnosis
-- Arduino / ESP32 · Microcontroller programming
-- Refrigeration systems (certified technician)
-
-**Other**
-- Statistical modeling · Chi-square · Cramér's V · Regression
-- Data cleaning & EDA
-- Git & GitHub
+I'm open to remote freelance work in web development, automation, and data, and to local electronics work in La Rioja.
 
 ---
 
-## 📂 Featured Projects
+## Featured projects
 
-### 🧠 Depression Risk Analysis in Argentine Students
-**R · ggplot2 · Statistical Modeling**  
-Analysis of the relationship between risk behaviors (tobacco, alcohol, drugs, physical inactivity) and depression probability in 56,981 secondary school students across Argentina. Used chi-square tests, Cramér's V, and contingency tables on data from the 3rd National School Health Survey (EMSE 2018).  
-→ [View project](https://github.com/AgusFernandezGaston/workshop-brilliance)
-
----
-
-### 📊 Sales Performance Dashboard
-**Power BI · DAX · Star Schema**  
-Interactive dashboard analyzing retail sales with dimensional model (Calendar, Customers, Brands, Products). Includes KPI cards, combo charts, treemap, year-over-year comparison (2016 vs 2017), and natural language Q&A visual.  
-→ *[Power BI Service link — coming soon]*
+| Project | What it does | Stack | Link |
+|---|---|---|---|
+| **Aviat Clinic website** | Website proposal for a surgical center: services, specialties, facilities, and WhatsApp contact. Auto-deployed from GitHub. | Next.js · TypeScript · Tailwind · Cloudflare Pages | [Live](https://aviat.riojadev.com.ar) · [Code](https://github.com/AgusFernandezGaston/aviat) |
+| **WhatsApp appointment bot** | Patients pick specialty, doctor, date, and time from a guided menu; every request is logged in Google Sheets for the admissions team. In production. | Botpress · WhatsApp Business API · Google Sheets | Demo on request |
+| **riojadev.com.ar** | My portfolio: interactive oscilloscope hero, bilingual (ES/EN), installable as an app. | HTML · CSS · JavaScript · Canvas | [Live](https://riojadev.com.ar) · [Code](https://github.com/AgusFernandezGaston/agusfernandezgaston.github.io) |
+| **Depression risk in Argentine students** | Risk behaviors vs. depression probability in 56,981 secondary students (EMSE 2018): chi-square tests, Cramér's V, contingency tables. | R · ggplot2 · VBA | [Repositories](https://github.com/AgusFernandezGaston?tab=repositories) |
+| **Sales performance dashboard** | Star-schema model, KPI cards, 2016 vs. 2017 comparison, natural-language Q&A. | Power BI · DAX | Demo on request |
+| **ESP32 automatic irrigation** | Weather and soil-moisture sensors decide when to water and drive a pump through a relay. In development. | ESP32 · C++ · PlatformIO | Coming soon |
 
 ---
 
-### 🌐 Aviat Medical Clinic — Website
-**Framer · UX · Web Design**  
-Clean, modern website for a medical clinic in La Rioja, Argentina. WhatsApp-integrated appointment booking, Google Maps embed, mobile-first design.  
-→ [Live site](https://aviat.framer.website/)
+## Tech stack
+
+**Web & automation**
+Next.js · TypeScript · HTML/CSS/JavaScript · Tailwind · Framer · Botpress · Google Apps Script · Cloudflare (Pages, Workers, DNS) · Git & GitHub
+
+**Data & analytics**
+R (tidyverse, ggplot2, vcd, nortest) · Python (pandas, NumPy, matplotlib) · Power BI (DAX, star schema) · Excel / VBA · Statistical modeling, EDA, regression
+
+**Hardware & electronics**
+SMD micro-soldering · Board-level diagnostics (consumer electronics, HVAC, refrigeration) · ESP32 / Arduino · C/C++ · Bench power supply, multimeter, and oscilloscope work
 
 ---
 
-### 🏆 Hackathon — R Data Analysis Script
-**R · Statistical Analysis · EDA**  
-Complete analysis pipeline built under competition conditions: data cleaning, exploratory analysis, visualization, and statistical modeling in R.  
-→ [View repository](https://github.com/AgusFernandezGaston)
+## The lab
+
+<img width="1195" alt="My electronics repair lab" src="https://github.com/user-attachments/assets/a75f5760-787b-45bf-b703-03aa7c50e229" />
 
 ---
 
-## ⚡ Hardware & Electronics Lab
+## GitHub stats
 
-I run an independent electronics repair operation out of my own lab in La Rioja.
-
-**Equipment:** SMD soldering station · Variable power supply · Digital multimeter · Oscilloscope tools  
-**Specialization:** PCB-level repair of air conditioning control boards, refrigerator electronics, and general consumer devices  
-**Track record:** 1000+ successful diagnostics and repairs
-
-<img width="1195" height="770" alt="laboratorio" src="https://github.com/user-attachments/assets/a75f5760-787b-45bf-b703-03aa7c50e229" />
+<p>
+  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AgusFernandezGaston&show_icons=true&theme=dark&hide_border=true">
+  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgusFernandezGaston&layout=compact&theme=dark&hide_border=true">
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## Contact
 
-[![Agustín's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgusFernandezGaston&show_icons=true&theme=dark&hide_border=true)](https://github.com/AgusFernandezGaston)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AgusFernandezGaston&layout=compact&theme=dark&hide_border=true)](https://github.com/AgusFernandezGaston)
-
----
-
-## 📫 Contact
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/agustin-fernandez-ingenieria/)
-- 🌐 [Portfolio](https://agusfernandezgaston.github.io)
-- 📧 Available for freelance work: data analysis, Power BI dashboards, web development, and electronics repair
-
----
-
-*Open to remote freelance projects in data & web — and local hardware/electronics work in La Rioja.*
-
-*Open to remote freelance work in data analysis, Power BI dashboards, and web development.*
+The fastest way to reach me is through [LinkedIn](https://www.linkedin.com/in/agustin-fernandez-ingenieria/) or the contact section at [riojadev.com.ar](https://riojadev.com.ar).
