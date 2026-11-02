@@ -19,7 +19,7 @@ Electronic Engineering student at UTN · La Rioja, Argentina
 I work across the whole stack, from the circuit board to the dashboard. That means I can fix the device, build the software around it, and measure whether it works.
 
 - **Software:** I build websites, WhatsApp bots, and automations for businesses, using the tools they already rely on: WhatsApp, Google Sheets, and their existing site.
-- **Data:** I hold a 213-hour Data Science diploma from the National University of Córdoba (UNC) and Mundos E and use R, Python, and Power BI to turn raw data into decisions.
+- **Data:** I hold a 213-hour Data Science diploma from the National University of Córdoba (UNC) and Mundos E, and I use R, Python, and Power BI to turn raw data into decisions.
 - **Hardware:** I run my own electronics lab, where I diagnose and repair boards from phones, TVs, air conditioners, and refrigerators. 30+ successful repairs. I'm also a certified refrigeration technician.
 
 ---
