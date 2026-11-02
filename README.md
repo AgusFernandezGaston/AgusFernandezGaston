@@ -52,7 +52,9 @@ SMD micro-soldering · Board-level diagnostics (consumer electronics, HVAC, refr
 
 ## The lab
 
-<img width="1195" alt="My electronics repair lab" src="https://github.com/user-attachments/assets/a75f5760-787b-45bf-b703-03aa7c50e229" />
+<img src="assets/lab.jpg" width="100%" alt="My electronics repair lab: SMD rework and soldering stations, bench power supply, USB microscope, multimeter, and an ESD mat">
+
+Rework station, temperature-controlled soldering iron, bench power supply, USB microscope, and multimeter on an ESD mat.
 
 ---
 
