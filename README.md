@@ -19,7 +19,7 @@ Electronic Engineering student at UTN · La Rioja, Argentina
 I work across the whole stack, from the circuit board to the dashboard. That means I can fix the device, build the software around it, and measure whether it works.
 
 - **Software:** I build websites, WhatsApp bots, and automations for businesses, using the tools they already rely on: WhatsApp, Google Sheets, and their existing site.
-- **Data:** I trained in Data Science at Mundos E (Córdoba) and use R, Python, and Power BI to turn raw data into decisions.
+- **Data:** I hold a 213-hour Data Science diploma from the National University of Córdoba (UNC) and Mundos E and use R, Python, and Power BI to turn raw data into decisions.
 - **Hardware:** I run my own electronics lab, where I diagnose and repair boards from phones, TVs, air conditioners, and refrigerators. 30+ successful repairs. I'm also a certified refrigeration technician.
 
 ---
@@ -115,11 +115,19 @@ Hot-air rework station, temperature-controlled soldering iron, bench power suppl
 
 ---
 
-## Education
+## Education & certifications
 
-- **Electronic Engineering**, Universidad Tecnológica Nacional (UTN), La Rioja: in progress
-- **Data Science diploma**, Mundos E, Córdoba
-- **Refrigeration technician**, certified
+| | Program | Institution | Details |
+|---|---|---|---|
+| 🎓 | **Data Science diploma** | Universidad Nacional de Córdoba (FCEFyN) & Mundos E | 213 hours · Completed November 2024 · Resolution RD-2022-1518-E-UNC-DEC#FCEFYN |
+| 📐 | **Electronic Engineering** | Universidad Tecnológica Nacional (UTN), La Rioja | In progress |
+| ❄️ | **Refrigeration technician** | Certified | Refrigeration cycle, diagnostics, and control boards |
+
+<details>
+<summary><b>View Data Science diploma</b></summary>
+<br>
+<img src="assets/certificate-data-science.jpg" width="100%" alt="Data Science diploma issued by the Faculty of Exact, Physical and Natural Sciences of the National University of Córdoba together with Mundos E, 213 hours, November 2024">
+</details>
 
 ---
 
