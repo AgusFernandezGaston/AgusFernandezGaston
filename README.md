@@ -28,6 +28,7 @@ I work across the whole stack, from the circuit board to the dashboard. That mea
 
 | Service | Typical deliverables |
 |---|---|
+| **Temperature monitoring & alerts** *(prototype in development)* | ESP32 sensors that log temperature 24/7 in commercial fridges, cold rooms, pharmacies, and labs, and alert your phone when it goes out of range. As a refrigeration technician, I also diagnose why the failure happened |
 | **Websites** | Business sites and landing pages, mobile-first, on your own domain, with automatic publishing from GitHub |
 | **Bots & automation** | WhatsApp appointment and inquiry bots, form-to-spreadsheet flows, scheduled reports, repetitive tasks taken off people's hands |
 | **Data & dashboards** | Data cleaning, exploratory analysis, statistical testing, and Power BI or R dashboards for sales, operations, and trends |
