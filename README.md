@@ -98,7 +98,7 @@ I work across the whole stack, from the circuit board to the dashboard. That mea
 
 | Project | What it does | Stack | Link |
 |---|---|---|---|
-| **Aviat Clinic website** | Website proposal for a surgical center: services, specialties, facilities, and WhatsApp contact. Auto-deployed from GitHub. | Next.js · TypeScript · Tailwind · Cloudflare Pages | [Live](https://aviat.riojadev.com.ar) |
+| **Medical clinic website (La Rioja)** | Website proposal for Aviat, a surgical center in La Rioja: services, specialties, facilities, and WhatsApp contact. Auto-deployed from GitHub. | Next.js · TypeScript · Tailwind · Cloudflare Pages | [Live](https://aviat.riojadev.com.ar) |
 | **WhatsApp appointment bot** | Patients pick specialty, doctor, date, and time from a guided menu; every request is logged in Google Sheets for the admissions team. In production. | Botpress · WhatsApp Business API · Google Sheets | Demo on request |
 | **riojadev.com.ar** | My portfolio: interactive oscilloscope hero, bilingual (ES/EN), installable as an app. | HTML · CSS · JavaScript · Canvas | [Live](https://riojadev.com.ar) |
 | **Depression risk in Argentine students** | 56,981 secondary students (EMSE 2018): substance use, physical activity, and a risk indicator, tested with chi-square and Cramér's V. Reviewing the group's analysis, I found two errors (a reversed p-value reading and a coding bug that left 8,414 students unclassified) that changed the conclusion. | R · ggplot2 · VBA · Python | [Case study](https://riojadev.com.ar/proyectos/depresion/) |
