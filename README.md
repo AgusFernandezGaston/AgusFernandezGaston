@@ -20,7 +20,7 @@ I work across the whole stack, from the circuit board to the dashboard. That mea
 
 - **Software:** I build websites, WhatsApp bots, and automations for businesses, using the tools they already rely on: WhatsApp, Google Sheets, and their existing site.
 - **Data:** I hold a 213-hour Data Science diploma from the National University of Córdoba (UNC) and Mundos E, and I use R, Python, and Power BI to turn raw data into decisions.
-- **Hardware:** I run my own electronics lab, where I diagnose and repair boards from phones, TVs, air conditioners, and refrigerators. 30+ successful repairs. I'm also a certified refrigeration technician.
+- **Hardware:** I run my own electronics lab, where I diagnose and repair boards from phones, TVs, air conditioners, and refrigerators. 70+ successful repairs. I'm also a certified refrigeration technician.
 
 ---
 
